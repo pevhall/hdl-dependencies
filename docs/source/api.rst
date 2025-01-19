@@ -1,7 +1,7 @@
 API
 ===
 
-.. automodule:: pythontemplate
+.. automodule:: hdldepends
    :members:
    :undoc-members:
    :show-inheritance:
